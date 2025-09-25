@@ -105,6 +105,9 @@
   <a href="./file/ChiaEnWu_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Download+Resume&logo=adobeacrobat&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Download Resume" />
   </a>
+  <a href="https://my-future-intern-page.lovable.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Personal+Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Personal Website" />
+</a>
 </div>
 
 <div align="center">
