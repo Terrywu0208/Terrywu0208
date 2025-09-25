@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Terry. Now looking for 2026 summer internships</h1>
+<h2 align="center">UW ECE P.M.P. Student | AI/ML, Cloud & Big Data | Data Engineer | Actively Seeking 2026 Summer Internship</h2>
 
 ###
 
